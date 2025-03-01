@@ -1,10 +1,11 @@
 import React from 'react';
+import Navbar from './Components/Navbar';
 
 function App() {
 
   return (
   <>
-  <p>This is Maharathi!</p>
+  <Navbar></Navbar>
   </>
   )
 }
